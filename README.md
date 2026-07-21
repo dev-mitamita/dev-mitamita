@@ -9,7 +9,7 @@
 
 ## 👨🏾‍💻 About Me
 
-I'm a IT student at KCA University on a structured 6-month journey to land my first junior penetration testing or bug bounty role. I dedicate 2 hours daily to building real, hands-on cybersecurity and Python skills — no shortcuts.
+I'm an IT student at KCA University on a structured 6-month journey to land my first junior penetration testing or bug bounty role. I dedicate 2 hours daily to building real, hands-on cybersecurity and Python skills — no shortcuts.
 
 I document everything I learn so others can follow along and grow with me.
 
