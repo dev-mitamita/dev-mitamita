@@ -9,7 +9,7 @@
 
 ## 👨🏾‍💻 About Me
 
-I'm a Computer Science student at KCA University on a structured 6-month journey to land my first junior penetration testing or bug bounty role. I dedicate 2 hours daily to building real, hands-on cybersecurity and Python skills — no shortcuts.
+I'm a IT student at KCA University on a structured 6-month journey to land my first junior penetration testing or bug bounty role. I dedicate 2 hours daily to building real, hands-on cybersecurity and Python skills — no shortcuts.
 
 I document everything I learn so others can follow along and grow with me.
 
@@ -64,7 +64,7 @@ I document everything I learn so others can follow along and grow with me.
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR-LINKEDIN-URL-HERE)
+[![LinkedIn]https://www.linkedin.com/in/martin-mitamita-322a93418?utm_source=share_via&utm_content=profile&utm_medium=member_android.
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](YOUR-TRYHACKME-URL-HERE)
 
 ---
