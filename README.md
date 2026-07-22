@@ -64,7 +64,7 @@ I document everything I learn so others can follow along and grow with me.
 
 ## 📫 Let's 
 
-[LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://ke.linkedin.com/in/martin-mitamita-322a93418.)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-mitamita-322a93418)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/devmitamita)
 
 ---
