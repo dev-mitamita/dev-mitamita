@@ -65,7 +65,7 @@ I document everything I learn so others can follow along and grow with me.
 ## 📫 Let's Connect
 
 [![LinkedIn]https://www.linkedin.com/in/martin-mitamita-322a93418?utm_source=share_via&utm_content=profile&utm_medium=member_android.
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](YOUR-TRYHACKME-URL-HERE)
+[![TryHackMe]https://tryhackme.com/p/devmitamita
 
 ---
 
