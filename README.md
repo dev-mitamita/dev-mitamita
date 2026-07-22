@@ -62,10 +62,10 @@ I document everything I learn so others can follow along and grow with me.
 
 ---
 
-## 📫 Let's Connect
+## 📫 Let's 
 
-[![LinkedIn]https://www.linkedin.com/in/martin-mitamita-322a93418?utm_source=share_via&utm_content=profile&utm_medium=member_android.
-[![TryHackMe]https://tryhackme.com/p/devmitamita
+[LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-mitamita-322a93418?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/devmitamita)
 
 ---
 
